@@ -1,14 +1,4 @@
-```
-           _           _                                ____        _   
-          | |         | |                              |  _ \      | |  
- __      _| |__   ___ | | ___  ___  ___  _ __ ___   ___| |_) | ___ | |_ 
- \ \ /\ / / '_ \ / _ \| |/ _ \/ __|/ _ \| '_ ` _ \ / _ \  _ < / _ \| __|
-  \ V  V /| | | | (_) | |  __/\__ \ (_) | | | | | |  __/ |_) | (_) | |_ 
-   \_/\_/ |_| |_|\___/|_|\___||___/\___/|_| |_| |_|\___|____/ \___/ \__|
-                                                                        
-```                                                                        
-
-wholesomeBot is a discord bot made using python and hosted on Heroku, for wholesome content ;)
+PokeBot is a discord bot made using python and hosted on Heroku, for wholesome content ;)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Devansh3712/wholesomeBot/graphs/commit-activity)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
@@ -16,13 +6,13 @@ wholesomeBot is a discord bot made using python and hosted on Heroku, for wholes
 
 ## Usage
 
-Add wholesomeBot to your server
+Add PokeBot to your server
 
-[![wholesomeBot](https://img.shields.io/badge/%3CwholesomeBot%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=753959496937898095&permissions=8&scope=bot)
+[![PokeBot]()
 
 ## Commands
 
-wholesomeBot uses '~' as suffix
+PokeBot uses '~' as suffix
 
 |    command   |                    working                    |
 |:------------:|:---------------------------------------------:|
@@ -44,12 +34,12 @@ wholesomeBot uses '~' as suffix
 
 ## Screenshots
 
-![1](https://user-images.githubusercontent.com/58616444/93016120-7e5f3380-f5dc-11ea-8f56-f6d5d9311cee.PNG)
+![1]()
 
-![2](https://user-images.githubusercontent.com/58616444/93016136-9636b780-f5dc-11ea-91b1-0d80d4eea9c4.PNG)
+![2]()
 
 ## Information
 
-wholesomeBot is a simple bot made using `discord.py` and `python` by [Devansh](https://github.com/Devansh3712). This bot consists of many basic commands, and over a 1000 wholesome memes for the users. Use the above link to add the bot to your discord server. Currently under development, we're trying to make it more easier to use and have a vast amount of functions, and your support is needed!
+wholesomeBot is a simple bot made using `discord.py` and `python` by [Sunil Boopalan](https://github.com/SunilBoopalan). This bot consists of many basic commands, and over a 1000 wholesome memes for the users. Use the above link to add the bot to your discord server. Currently under development, we're trying to make it more easier to use and have a vast amount of functions, and your support is needed!
 
-Do give your suggestions [here](mailto:devanshamity@gmail.com), it would really help us :)
+Do give your suggestions [here](mailto:grandsunil7@gmail.com), it would really help us :)
