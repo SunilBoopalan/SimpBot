@@ -28,7 +28,7 @@ async def coco(ctx):
 
 @client.command()
 async def hello(ctx):
-    await ctx.send('Hello, I\'m the wholesomeBot :) Have a great day!')
+    await ctx.send('Hello, I\'m the PokeBot :) Have a great day!')
 
 @client.command()
 async def meme(ctx):
@@ -97,7 +97,7 @@ async def help(ctx):
     embed = discord.Embed(
         colour = discord.Colour.green())
     embed.set_author(name = 'Help : list of commands available')
-    embed.add_field(name = '~info', value = 'Gives info about the wholesomeBot', inline = False)
+    embed.add_field(name = '~info', value = 'Gives info about the PokeBot', inline = False)
     embed.add_field(name = '~all', value = 'List of all commands', inline = False)
     await ctx.send(embed = embed)
 
@@ -105,7 +105,7 @@ async def help(ctx):
 async def all(ctx):
     embed = discord.Embed(
         colour = discord.Colour.red())
-    embed.set_author(name = 'All commands of wholesomeBot')
+    embed.set_author(name = 'All commands of PokeBot')
     embed.add_field(name = '~wholesome', value = 'Responds with a wholesome quote', inline = False)
     embed.add_field(name = '~meme', value = 'Posts a random whomesome meme', inline = False)
     embed.add_field(name = '~qt', value = 'Responds with you\'re a cutie meme', inline = False)
@@ -127,10 +127,10 @@ async def info(ctx):
     embed = discord.Embed(
         colour = discord.Colour.purple())
     embed.set_author(name = 'Information')
-    embed.add_field(name = 'What is it?', value = 'wholesomeBot is a discord bot made using `python` for wholesome content ;)', inline = False)
+    embed.add_field(name = 'What is it?', value = 'PokeBot is a discord bot made using `python` for wholesome content ;)', inline = False)
     embed.add_field(name = 'Hosting', value = 'Hosted on Heroku, currently in development stage', inline = False)
-    embed.add_field(name = 'Author', value = 'Made with *UwU* by `Devansh`', inline = False)
-    embed.add_field(name = 'Visit', value = 'https://devansh3712.github.io/wholesomeBot', inline = False)
+    embed.add_field(name = 'Author', value = 'Made with *UwU* by `Sunil B`', inline = False)
+    embed.add_field(name = 'Visit', value = 'https://SunilBoopalan.github.io/PokeBot', inline = False)
     await ctx.send(embed = embed)
 
 client.run(TOKEN)
