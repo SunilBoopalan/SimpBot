@@ -1,6 +1,6 @@
 SimpBot is a discord bot made using python and hosted on Heroku, for Simpin content ;)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/SunilBoopalan/Simp-Bot/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/SunilBoopalan/SimpBot/graphs/commit-activity)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
@@ -8,7 +8,7 @@ SimpBot is a discord bot made using python and hosted on Heroku, for Simpin cont
 
 Add Simp-Bot to your server
 
-[![Simp Bot](https://img.shields.io/badge/%3CSimpBot%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=920753063638216774&permissions=545431486327&scope=bot)
+[![Simp Bot](https://img.shields.io/badge/%3CSimp-Bot%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=920753063638216774&permissions=545431486327&scope=bot)
 
 
 ## Commands
