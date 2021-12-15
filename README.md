@@ -38,7 +38,7 @@ PokeBot uses '~' as suffix.
 
 ![2](https://github.com/SunilBoopalan/dev/blob/main/Screenshot%20(384).png)
 
-![3]()
+![3](https://github.com/SunilBoopalan/dev/blob/main/Screenshot%20(382).png)
 
 ## Information
 
