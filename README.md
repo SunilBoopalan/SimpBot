@@ -1,14 +1,14 @@
-PokeBot is a discord bot made using python and hosted on Heroku, for wholesome content ;)
+SimpBot is a discord bot made using python and hosted on Heroku, for Simpin content ;)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Devansh3712/wholesomeBot/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/SunilBoopalan/SimpBot/graphs/commit-activity)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 ## Usage
 
-Add PokeBot to your server
+Add SimpBot to your server
 
-[![PokeBot]()
+[![SimpBot]()
 
 ## Commands
 
@@ -40,6 +40,6 @@ PokeBot uses '~' as suffix
 
 ## Information
 
-wholesomeBot is a simple bot made using `discord.py` and `python` by [Sunil Boopalan](https://github.com/SunilBoopalan). This bot consists of many basic commands, and over a 1000 wholesome memes for the users. Use the above link to add the bot to your discord server. Currently under development, we're trying to make it more easier to use and have a vast amount of functions, and your support is needed!
+SimpBot is a simple bot made using `discord.py` and `python` by [Sunil Boopalan](https://github.com/SunilBoopalan). This bot consists of many basic commands, and over a 1000 wholesome/Simp memes for the users. Use the above link to add the bot to your discord server. Currently under development, we're trying to make it more easier to use and have a vast amount of functions, and your support is needed!
 
 Do give your suggestions [here](mailto:grandsunil7@gmail.com), it would really help us :)
