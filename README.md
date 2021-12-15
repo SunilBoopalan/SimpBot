@@ -12,7 +12,7 @@ Add SimpBot to your server
 
 ## Commands
 
-PokeBot uses '~' as suffix
+PokeBot uses '~' as suffix.
 
 |    command   |                    working                    |
 |:------------:|:---------------------------------------------:|
