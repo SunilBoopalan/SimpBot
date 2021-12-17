@@ -8,7 +8,9 @@ SimpBot is a discord bot made using python and hosted on Heroku, for Simpin cont
 
 Add Simp-Bot to your server
 
-[![Simp Bot](https://img.shields.io/badge/%3CSimpBot%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=920753063638216774&permissions=545431486327&scope=bot)
+
+
+[![Simp Bot](https://img.shields.io/badge/SimpBot-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=920753063638216774&permissions=545431486327&scope=bot)
 
 
 ## Commands
