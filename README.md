@@ -33,7 +33,7 @@ Add Simp-Bot to your server
 |   `~homie`   |      Responds with wholesome homie memes      |
 |     `~bb`    | Returns something special for the office fans |
 |    `~ohh`    |    Responds with the yellow sunglasses guy    |
-|    `~info`   |   Returns information about the wholesomeBot  |
+|    `~info`   |   Returns information about the SimpBot       |
 
 ## Screenshots
 
