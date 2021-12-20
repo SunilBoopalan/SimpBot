@@ -20,7 +20,7 @@ Add Simp-Bot to your server
 |    command   |                    working                    |
 |:------------:|:---------------------------------------------:|
 |    `~all`    |          Returns list of all commands         |
-| `~wholesome` |     Responds with a random Simp quote         |
+| `~wholesome` |     Responds with a random wholesome quote    |
 |    `~meme`   |     Responds with a random Simp meme          |
 |     `~qt`    |       Responds with you're a cutie meme       |
 |    `~ily`    |   Responds with a random I love you message   |
