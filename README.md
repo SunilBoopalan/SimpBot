@@ -43,9 +43,7 @@ Add Simp-Bot to your server
 
 ![3](https://github.com/SunilBoopalan/dev/blob/main/Screenshot%20(382).png)
 
-![4](https://github.com/SunilBoopalan/dev/blob/main/Screenshot_20220105-231448_Discord.jpg)
-
-![5](https://github.com/SunilBoopalan/dev/blob/main/Screenshot%20(467)_LI.jpg)
+![4](https://github.com/SunilBoopalan/dev/blob/main/Screenshot%20(467)_LI.jpg)
 
 ## Information
 
