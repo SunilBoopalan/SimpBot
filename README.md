@@ -43,6 +43,10 @@ Add Simp-Bot to your server
 
 ![3](https://github.com/SunilBoopalan/dev/blob/main/Screenshot%20(382).png)
 
+![4](https://github.com/SunilBoopalan/dev/blob/main/Screenshot_20220105-231448_Discord.jpg)
+
+![5](https://github.com/SunilBoopalan/dev/blob/main/Screenshot%20(467)_LI.jpg)
+
 ## Information
 
 SimpBot is a simple bot made using `discord.py` and `python` by [Sunil Boopalan](https://github.com/SunilBoopalan). This bot consists of many basic commands, and over a 1000 wholesome/simp memes for the users. Use the above link to add the bot to your discord server. Currently under development, we're trying to make it more easier to use and have a vast amount of functions, and your support is needed!
