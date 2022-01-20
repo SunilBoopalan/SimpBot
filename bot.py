@@ -130,7 +130,7 @@ async def info(ctx):
     embed.add_field(name = 'What is it?', value = 'SimpBot is a discord bot made using `python` for Simpin content ;)', inline = False)
     embed.add_field(name = 'Hosting', value = 'Hosted on Heroku, currently in development stage', inline = False)
     embed.add_field(name = 'Author', value = 'Made with *UwU* by `Sunil B`', inline = False)
-    embed.add_field(name = 'Visit', value = 'https://SunilBoopalan.github.io/SimpBot', inline = False)
+    embed.add_field(name = 'Visit', value = 'https://github.com/SunilBoopalan/SimpBot', inline = False)
     await ctx.send(embed = embed)
 
 client.run(TOKEN)
