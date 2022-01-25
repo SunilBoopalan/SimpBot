@@ -41,8 +41,8 @@ Add Simp-Bot to your server
 |    command   |                    working                      |
 |:------------:|:-----------------------------------------------:|
 |              |                                                 |
-|    `~play`   |Plays the song or playlist if name or link shared| 
-|              |                                                 | 
+|    `~play`   |Plays the song or playlist if name or link shared|
+|              |                                                 |
 |   `~pause`   |       pauses the current song its playing       |
 |   `~resume`  |         Resumes the music from pause            |
 |   `~queue`   |        Queues songs and playlists               |
