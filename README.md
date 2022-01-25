@@ -1,4 +1,4 @@
-SimpBot is a discord bot made using python and hosted on Heroku, for Simpin content ;)
+SimpBot is a discord bot made using python and hosted on Heroku, for Simpin content ;)  [NOW MUSIC FEATURE IS ALSO AVAILABLE]
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/SunilBoopalan/SimpBot/graphs/commit-activity)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
@@ -16,7 +16,8 @@ Add Simp-Bot to your server
 ## Commands
 
   Simp Bot uses '~' as suffix.
-
+     
+     meme
 |    command   |                    working                    |
 |:------------:|:---------------------------------------------:|
 |    `~all`    |          Returns list of all commands         |
@@ -34,6 +35,29 @@ Add Simp-Bot to your server
 |     `~bb`    | Returns something special for the office fans |
 |    `~ohh`    |    Responds with the yellow sunglasses guy    |
 |    `~info`   |   Returns information about the SimpBot       |
+
+
+     music
+|    command   |                    working                      |
+|:------------:|:-----------------------------------------------:|
+|              |                                                 |
+|    `~play`   |  Plays the song or playlist if name or link     |
+|              |                     shared                      | 
+|              |                                                 | 
+|   `~pause`   |       pauses the current song its playing       |
+|   `~resume`  |         Resumes the music from pause            |
+|   `~queue`   |        Queues songs and playlists               |
+|`~clear-queue`|Clears queue created or queue of playlist playing|
+|  `~shuffle`  |          Shuffles songs in a queue              |
+|    `~np`     |         Shows info of the music playing         |
+|   `~loop`    |       Loops the song or queue or playlist       |
+|   `~volume`  |  Adjusts the volume as u prefer with a number   |
+|    `~skip`   |              Skips a song in queue              |
+|    `~stop`   |               Stops playing music               |
+|    `~info`   |   Returns information about the SimpBot         |
+
+
+
 
 ## Screenshots
 
