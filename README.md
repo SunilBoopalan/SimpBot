@@ -1,4 +1,4 @@
-SimpBot is a discord bot made using python and hosted on Heroku, for Simpin content ;)  [NOW MUSIC FEATURE IS ALSO AVAILABLE]
+SimpBot is a discord bot made using python and hosted on Heroku, for Simpin content ;)  [MUSIC FEATURE IS ALSO AVAILABLE NOW]
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/SunilBoopalan/SimpBot/graphs/commit-activity)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
