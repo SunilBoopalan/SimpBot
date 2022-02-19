@@ -1,5 +1,7 @@
 SimpBot is a discord bot made using python and hosted on Heroku, for Simpin content ;)  [MUSIC FEATURE & Slash commands are ALSO AVAILABLE NOW]
 
+Slash commands source code is not open-source.
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/SunilBoopalan/SimpBot/graphs/commit-activity)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
