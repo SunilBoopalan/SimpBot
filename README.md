@@ -58,6 +58,10 @@ And use `/help` slash command to know more about slash commands and other awesom
 
 ![6](https://github.com/SunilBoopalan/dev/blob/main/Screenshot%20(496).png)
 
+![7](https://github.com/SunilBoopalan/dev/blob/main/Screenshot%20(559).png)
+
+![8](https://github.com/SunilBoopalan/dev/blob/main/Screenshot%20(560).png)
+
 ## Information
 
 SimpBot is a simple bot made using `discord.py` and `python` by [Sunil Boopalan](https://github.com/SunilBoopalan). This bot consists of many basic commands, and over a 1000 simp memes for the users. Use the above link to add the bot to your discord server. Currently under development, we're trying to make it more easier to use and have a vast amount of functions, and your support is needed!
